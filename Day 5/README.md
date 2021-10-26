@@ -1,5 +1,5 @@
-Password Generator
+# Password Generator
 
 Run the code here!
 
-https://replit.com/@OskarSkowronsk1/Day5-Password-Generator#main.py
+https://replit.com/@oskar/Day5-Password-Generator#main.py
