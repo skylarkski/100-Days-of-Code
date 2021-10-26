@@ -1,5 +1,5 @@
-Tip Calculator
+# Tip Calculator
 
 Run the code here!
 
-https://replit.com/@OskarSkowronsk1/Day2-TipCalculator#main.py
+https://replit.com/@oskar/Day2-TipCalculator#main.py
