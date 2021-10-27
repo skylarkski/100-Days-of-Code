@@ -2,4 +2,4 @@
 
 Run the code here!
 
-https://replit.com/@oskar/Day1-Sports-Team-Name-Generator#main.py
+https://replit.com/@oskar/Day-001-Sports-Team-Name-Generator#main.py
