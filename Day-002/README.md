@@ -2,4 +2,4 @@
 
 Run the code here!
 
-https://replit.com/@oskar/Day2-TipCalculator#main.py
+https://replit.com/@oskar/Day-002-TipCalculator#main.py
