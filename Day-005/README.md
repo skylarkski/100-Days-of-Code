@@ -2,4 +2,4 @@
 
 Run the code here!
 
-https://replit.com/@oskar/Day5-Password-Generator#main.py
+https://replit.com/@oskar/Day-005-Password-Generator#main.py
