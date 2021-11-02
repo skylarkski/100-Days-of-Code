@@ -1,4 +1,4 @@
-# Higher Lower
+# Low number / High Number
 
 Run the code here!
 
