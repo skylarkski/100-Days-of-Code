@@ -1,0 +1,119 @@
+body{
+	margin: 0px;
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	color: #000;
+}
+
+h1 {
+	color: #66BFBF;
+	font-family: 'Climate Crisis', sans-serif;
+	font-kerning: normal;
+	font-size: 5rem;
+	letter-spacing: 2px;
+	text-shadow: 3px 3px 2px #000;
+	margin: 50px auto 0px auto;
+	line-height: 2;
+	
+}
+
+h2 {
+	color: #11999E;
+	font-family: 'Poppins', sans-serif;
+	font-size: 2rem;
+	font-weight: normal;
+}
+
+h3 {
+	color: #11999E;
+}
+
+a {
+	color: #11999E;
+}
+
+hr {
+	margin: 50px auto;
+	border: 0px solid white;
+	border-bottom: 8px dotted #989999;
+	width: 5%;
+}
+
+.top-container {
+	background-color: #bde0ff;
+	position: relative;
+	padding-top: 100px;
+}
+
+.middle-container { 
+	margin: 30px auto;
+}
+
+.bottom-container {
+	background-color: #66BFBF;
+	padding: 50px 0 20px;
+}
+
+.bottom-container a {
+	text-decoration: none;
+	padding: 0 20px;
+}
+.bottom-container p {
+	color: #d4d4d4;
+}
+
+.bottom-container a:hover {
+	color: #ffffff;
+}
+
+.pro {
+	text-decoration: underline;
+}
+
+.top-cloud {
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+
+.bottom-cloud {
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 50px auto;
+	text-align: left;
+	display: inline-block;
+}
+
+.sail-img {
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+
+.disc-img {
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+
+.oskar-img {
+	width: 150px;
+	border-radius: 50%;
+}
+
+.btn {
+	background-color: #11999E;
+	text-decoration: none;
+	color: white;
+	border-radius: 5%;
+	padding: 8px 10px;
+	margin: 20px auto;
+	display: block;
+	width: 120px;
+}
